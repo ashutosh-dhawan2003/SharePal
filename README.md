@@ -1,7 +1,3 @@
-Here's a detailed README file for your **SharePal File Sharing Application** project that you can upload to GitHub:
-
----
-
 # SharePal File Sharing Application
 
 **SharePal** is a Python-based desktop application designed for seamless file sharing over a local network. It features a simple graphical interface built with Tkinter, allowing users to select and transfer files between devices using socket programming.
